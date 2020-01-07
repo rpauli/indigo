@@ -2,45 +2,33 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/{{ site.picture }})
+![Profile Image](../assets/images/imonaboat.png "Me on a boat")
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 
-<h2>Skills</h2>
 
-<ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
-	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
-</ul>
-
-<h2>Projects</h2>
+<h2>Interests</h2>
 
 <ul>
-	<li><a href="https://github.com/">Lorem Lorem</a></li>
-	<li><a href="https://github.com/">Ipsum Dolor</a></li>
-	<li><a href="https://github.com/">Dolor Lorem</a></li>
+	<li>Science: Chaos--Biophysics--Neuroscience--"Intelligent" Machines</li>
+	<li>Sports: Squash, Bouldering, etc..</li>
+	<li>Music, cooking etc</li>
+</ul>
+
+
+<h2>Education</h2>
+
+<ul class="skill-list">
+	<li>2014-now, Doctoral student, RWTH Aachen</li>
+  <li>2012-2014, Masters of science in physics, HHU Duesseldorf</li>
+	<li>2009-2012, Bachelor of science in physics, RWTH Aachen</li>
+</ul>
+
+<h2>Publications</h2>
+
+<ul class="skill-list">
+	<li><A href="https://www.frontiersin.org/articles/10.3389/fninf.2018.00046/full">Reproducing Polychronization: A Guide to Maximizing the Reproducibility of Spiking Network Models</A></li>
+  <li><a href="https://www.sciencedirect.com/science/article/pii/S0306452219304750">Evaluation of Spike Sorting Algorithms: Application to Human Subthalamic Nucleus Recordings and Simulations</a></li>
+	<li><a href="https://zenodo.org/record/32969">NEST 2.8.0</a></li>
+	
 </ul>
