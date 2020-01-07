@@ -1,7 +1,4 @@
-![Profile Image](../assets/images/imonaboat.png "Me on a boat")
-
-
-
+![Profile Image](assets/images/imonaboat.png "Me on a boat")
 
 <h2>Interests</h2>
 
